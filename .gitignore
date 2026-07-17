@@ -1,0 +1,17 @@
+# Generated / sensitive files
+encodings.pickle
+access_log.csv
+
+# Face images (don't commit people's photos)
+dataset/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

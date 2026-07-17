@@ -1,0 +1,12 @@
+# Install on the Raspberry Pi (Raspberry Pi OS Bookworm or newer)
+#
+# picamera2 and gpiozero usually ship with Raspberry Pi OS. If they are
+# missing, install via apt:
+#   sudo apt install -y python3-picamera2 python3-gpiozero
+#
+# The packages below are installed with pip. Building dlib/face_recognition
+# on a Pi can take a while, so be patient.
+
+face_recognition
+opencv-python
+numpy
