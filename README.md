@@ -13,6 +13,31 @@ Built as a **group project** during the STEAM Academy Programme
 (Intelligent Systems) at the **University of Wolverhampton**, 19–29 January 2026.
 The project received the programme's **Best Group Project Award**.
 
+## Live demo
+
+![Demo of the access control system running on the Raspberry Pi 5 hardware](images/demo.gif)
+
+## Project photos
+
+<table>
+<tr>
+<td width="50%">
+
+![Complete prototype — Raspberry Pi 5, camera, LEDs, and button wired together](images/prototype.jpg)
+
+Complete prototype — Raspberry Pi 5, camera, LEDs, and button wired together
+
+</td>
+<td width="50%">
+
+![Breadboard wiring detail](images/breadboard.jpg)
+
+Breadboard wiring detail
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## How it works

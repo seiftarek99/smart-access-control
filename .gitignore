@@ -15,3 +15,6 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Raw source video (only the optimized images/demo.gif is committed)
+images/demo.mp4
